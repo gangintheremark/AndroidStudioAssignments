@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "IT융합응용공학과"
